@@ -1,0 +1,195 @@
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.exe.config
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.exe
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.pdb
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\IndexRange.dll
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Buffers.dll
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Memory.dll
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Numerics.Vectors.dll
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Text.Encodings.Web.dll
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Text.Json.dll
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.ValueTuple.dll
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\WTelegramClient.dll
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Buffers.xml
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Memory.xml
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Numerics.Vectors.xml
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Text.Encodings.Web.xml
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Text.Json.xml
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\System.ValueTuple.xml
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\bin\Release\WTelegramClient.xml
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.AssemblyReference.cache
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.SuggestedBindingRedirects.cache
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.Form1.resources
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.NavigationPane.NavPane.resources
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.Properties.Resources.resources
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.DataGridViewEx.resources
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.HistoricPane.HistoricPane.resources
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.PortfolioPane.PortfolioPane.resources
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.RightPane.resources
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.StockPane.StockPane.resources
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.GenerateResource.cache
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.CoreCompileInputs.cache
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.CopyComplete
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.exe
+C:\29th\StockPortfolioFinalBuild - Publish\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.pdb
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.exe.config
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.exe
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.pdb
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\IndexRange.dll
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Buffers.dll
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Memory.dll
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Numerics.Vectors.dll
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Text.Encodings.Web.dll
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Text.Json.dll
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.ValueTuple.dll
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\WTelegramClient.dll
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Buffers.xml
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Memory.xml
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Numerics.Vectors.xml
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Text.Encodings.Web.xml
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Text.Json.xml
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\System.ValueTuple.xml
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\bin\Release\WTelegramClient.xml
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.AssemblyReference.cache
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.SuggestedBindingRedirects.cache
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.Form1.resources
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.NavigationPane.NavPane.resources
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.Properties.Resources.resources
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.DataGridViewEx.resources
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.HistoricPane.HistoricPane.resources
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.PortfolioPane.PortfolioPane.resources
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.RightPane.resources
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.StockPane.StockPane.resources
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.GenerateResource.cache
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.CoreCompileInputs.cache
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.CopyComplete
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.exe
+C:\29th\StockPortfolioFinalBuild - Exceptions\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.pdb
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.exe.config
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.exe
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.pdb
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\IndexRange.dll
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Buffers.dll
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Memory.dll
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Numerics.Vectors.dll
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Text.Encodings.Web.dll
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Text.Json.dll
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.ValueTuple.dll
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\WTelegramClient.dll
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Buffers.xml
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Memory.xml
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Numerics.Vectors.xml
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Text.Encodings.Web.xml
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Text.Json.xml
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\System.ValueTuple.xml
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\bin\Release\WTelegramClient.xml
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.AssemblyReference.cache
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.SuggestedBindingRedirects.cache
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.Form1.resources
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.NavigationPane.NavPane.resources
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.Properties.Resources.resources
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.DataGridViewEx.resources
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.HistoricPane.HistoricPane.resources
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.PortfolioPane.PortfolioPane.resources
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.RightPane.resources
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.StockPane.StockPane.resources
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.GenerateResource.cache
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.CoreCompileInputs.cache
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.CopyComplete
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.exe
+C:\29th\StockPortfolioFinalBuild - ExceptionsAndAPIfactoryAndCommentCLea\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.pdb
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.exe.config
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.exe
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.pdb
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\IndexRange.dll
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Buffers.dll
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Memory.dll
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Numerics.Vectors.dll
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Text.Encodings.Web.dll
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Text.Json.dll
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.ValueTuple.dll
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\WTelegramClient.dll
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Buffers.xml
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Memory.xml
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Numerics.Vectors.xml
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Text.Encodings.Web.xml
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Text.Json.xml
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\System.ValueTuple.xml
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\bin\Release\WTelegramClient.xml
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.AssemblyReference.cache
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.SuggestedBindingRedirects.cache
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.Form1.resources
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.NavigationPane.NavPane.resources
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.Properties.Resources.resources
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.DataGridViewEx.resources
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.HistoricPane.HistoricPane.resources
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.PortfolioPane.PortfolioPane.resources
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.RightPane.resources
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.StockPane.StockPane.resources
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.GenerateResource.cache
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.CoreCompileInputs.cache
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.CopyComplete
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.exe
+C:\29th\StockPortfolioFinalBuild - NoInternet (Made with ExceptionAndAPICOmen proj\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.pdb
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.exe.config
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.exe
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\WindowsFormsApp24thdec.pdb
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\IndexRange.dll
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Buffers.dll
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Memory.dll
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Numerics.Vectors.dll
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Text.Json.dll
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.ValueTuple.dll
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\WTelegramClient.dll
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Buffers.xml
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Memory.xml
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Numerics.Vectors.xml
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Text.Json.xml
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\System.ValueTuple.xml
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\bin\Release\WTelegramClient.xml
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.AssemblyReference.cache
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.SuggestedBindingRedirects.cache
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.Form1.resources
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.NavigationPane.NavPane.resources
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.Properties.Resources.resources
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.DataGridViewEx.resources
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.HistoricPane.HistoricPane.resources
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.PortfolioPane.PortfolioPane.resources
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.RightPane.resources
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.RightPane.StockPane.StockPane.resources
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.GenerateResource.cache
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.CoreCompileInputs.cache
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.csproj.CopyComplete
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.exe
+C:\Users\HasanH\Downloads\Last Build\StockPortfolioFinalBuild - Timer_New\WindowsFormsApp24thdec\obj\Release\WindowsFormsApp24thdec.pdb
